@@ -1,0 +1,11 @@
+.rsm-geography {
+    fill: #e0e0e0;
+    stroke: #fff;
+    stroke-width: 0.5;
+    outline: none;
+  }
+  
+  .rsm-geography:hover {
+    fill: #9fd3c7;
+  }
+  
